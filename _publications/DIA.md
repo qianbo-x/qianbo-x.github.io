@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 # permalink: /publication/2010-10-01-paper-title-number-2
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2025
+date: 2025-6-13
 venue: 'Proceedings of the Computer Vision and Pattern Recognition Conference'
 # slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2025/papers/Li_Dynamic_Integration_of_Task-Specific_Adapters_for_Class_Incremental_Learning_CVPR_2025_paper.pdf'
