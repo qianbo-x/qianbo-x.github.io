@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /DETR-ViP
 # excerpt: ''
-date: 2026
+date: 2026-4-23
 venue: 'The Fourteenth International Conference on Learning Representations'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 # paperurl: 'https://academicpages.github.io/files/paper1.pdf'
