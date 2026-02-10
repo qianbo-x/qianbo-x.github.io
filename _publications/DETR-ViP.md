@@ -3,7 +3,7 @@ title: "DETR-ViP: Detection Transformer with Robust Discriminative Visual Prompt
 collection: publications
 category: conferences
 # permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ''
+# excerpt: ''
 date: 2026-3-1
 venue: 'The Fourteenth International Conference on Learning Representations'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
